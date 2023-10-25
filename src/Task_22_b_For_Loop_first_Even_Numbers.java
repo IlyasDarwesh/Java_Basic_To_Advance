@@ -6,7 +6,7 @@ public class Task_22_b_For_Loop_first_Even_Numbers {
 
         for (int i=1; i<n; i*=2){
 
-            System.out.println("value of i: "+i);
+            System.out.println("value of i: "+ i);
 
             sum = sum +i;
 
